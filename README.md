@@ -13,6 +13,14 @@ O widget principal deste package é o **BatteryRingWidget**, que exibe o nível 
 - Pode ser usado dentro de qualquer app Flutter
 
 ---
+# Screenshots do App
+
+### Tela Inicial
+![Tela Inicial](assets/img/telainicial.png)
+
+### Menu
+![Menu](assets/img/menu.png)
+
 
 ## Instalação
 

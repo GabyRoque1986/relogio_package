@@ -1,4 +1,4 @@
-library relogio_package;
+library; 
 
 export 'widgets/battery_ring_widget.dart';
 export 'src/calculator.dart';
